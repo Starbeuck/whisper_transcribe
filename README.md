@@ -21,6 +21,8 @@ A simple and powerful Python tool to **transcribe audio** from a **local MP4 vid
 2. Install required packages:
 
 ```bash
+python -m venv venv
+source venv/bin/activate
 pip install pytube moviepy openai-whisper torch rich
 ```
 
