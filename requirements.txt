@@ -1,0 +1,7 @@
+whisper
+torch
+moviepy
+pytube
+rich
+mypy
+types-requests
